@@ -19,6 +19,7 @@ Assim:
    * Dica: git commit
 1. Crie um repositório no Github e envie seu projeto para o repositório remoto.
    * Dica: git push
+   * Dica 2: aqui deve surgir uma "situação" de "erro". Como se resolve o "fast-forward error"?
 1. Crie um programa em java que imprima "Hello, World". Quando pronto, faça novo commit.
 1. Crie novas branches, uma para cada membro do grupo. Chame-as de "dev-NOME_DO_MEMBRO_DA_EQUIPE"
 1. Compartilhe o repositório (todas as branches) no repositório remoto do seu grupo. DICA: deve haver um conflito entre o repositório local e o remoto, após todas estas alterações. Resolva o conflito trazendo o repositório remoto e mesclando-o com o local
