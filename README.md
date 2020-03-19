@@ -1,7 +1,7 @@
 # Exercícios sobre os conceitos e comandos do Git
 
 
-Hoje vamos fazer um estudo dirigido, praticando algumas operações do Git. 
+Hoje vamos fazer um estudo dirigido, praticando algumas operações do Git. Para cada operação, leia o material de apoio para entender o que está acontecendo.
 
 
 ## Passos
