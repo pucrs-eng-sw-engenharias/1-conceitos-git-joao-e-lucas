@@ -14,7 +14,7 @@ Hoje vamos fazer um estudo dirigido, praticando algumas operações do Git. Para
    * Dica: git add
 1. Coloque seus arquivos sob gerenciamento da configuração.
    * Dica: git commit
-1. Crie um repositório no Github e envie seu projeto para o repositório remoto.
+1. Crie um repositório no Github (vazio, sem README.md) e envie seu projeto para o repositório remoto.
    * Dica: git push
    * Dica 2: aqui deve surgir uma "situação" de "erro". Como se resolve o "fast-forward error"? Resolva o conflito trazendo o repositório remoto e mesclando-o com o local
 1. Crie um programa em C/C++ que imprima "Hello, World". Quando pronto, faça novo commit.
